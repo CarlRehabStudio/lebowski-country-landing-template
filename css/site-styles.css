@@ -1,0 +1,22 @@
+<style>
+
+.container {
+	max-width: 100%;
+	overflow: hidden;
+	background-color: #FFF;
+	clear: both;
+}
+
+.main-top-nav {
+
+	height: 70px;
+	position: relative;
+	padding: 80px;
+
+
+}
+
+.content-width {
+	max-width: 1300px;
+}
+</style>
